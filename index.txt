@@ -1,0 +1,5 @@
+Welcome to CrimsonDuke's Simple Text Page
+
+This is a plain text file hosted via GitHub Pages and GitHub Actions.
+
+Hello World!
