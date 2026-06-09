@@ -1,5 +1,17 @@
-Welcome to CrimsonDuke's Simple Text Page
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Crimson Duke</title>
+</head>
+<body>
+    <h1>Willkommen bei Crimson Duke</h1>
+    <p>Hier finden Sie Informationen zu unseren Apps im Google Play Store.</p>
+    
+    <h3>Support & Kontakt</h3>
+    <p>Bei Fragen wenden Sie sich bitte an: gomerainc@gmail.come</p>
 
-This is a plain text file hosted via GitHub Pages and GitHub Actions.
-
-Hello World!
+    <h3>Datenschutz</h3>
+    <p><a href="datenschutz.html">Unsere Datenschutzerklärung</a></p>
+</body>
+</html>
